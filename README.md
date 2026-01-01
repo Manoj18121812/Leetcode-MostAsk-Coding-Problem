@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
