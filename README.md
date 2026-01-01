@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
