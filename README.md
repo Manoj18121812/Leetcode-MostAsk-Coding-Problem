@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0066-plus-one) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0202-happy-number) |
