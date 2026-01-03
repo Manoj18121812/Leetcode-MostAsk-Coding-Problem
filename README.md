@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0933-number-of-recent-calls) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
