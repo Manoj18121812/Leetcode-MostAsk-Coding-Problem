@@ -6,16 +6,16 @@ class Solution {
         for(int num : nums){
             if(num>0){
                 set.add(num);
-        }
-        }
-        int missing =1;
-
-        while(true){
-            if(!set.contains(missing)){
-                return missing;
-            }else {
-                missing++;
             }
+    }
+    int missing =1;
+    while(true){
+        if(!set.contains(missing)){
+            return missing;
+        }else{
+            missing++;
         }
+    }
+    
     }
 }
