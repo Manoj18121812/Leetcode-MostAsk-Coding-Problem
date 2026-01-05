@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0704-binary-search) |
 ## Dynamic Programming
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0387-first-unique-character-in-a-string) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -198,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
