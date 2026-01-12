@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0338-counting-bits) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0268-missing-number) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
