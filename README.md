@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
 | ------- |
