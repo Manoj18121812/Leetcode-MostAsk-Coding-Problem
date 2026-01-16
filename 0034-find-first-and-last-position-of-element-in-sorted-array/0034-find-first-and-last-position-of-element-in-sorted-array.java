@@ -1,17 +1,16 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
         int first = -1;
-        int last = -1;
+        int last =-1;
 
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == target) {
-                if (first == -1) {
-                    first = i;   // first occurrence
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==target){
+                if(first ==-1){
+                    first = i;
                 }
-                last = i;        // keep updating last
+                last =i;
             }
         }
-
-        return new int[] { first, last };
+        return new int [] {first ,last};
     }
 }
