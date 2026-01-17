@@ -1,11 +1,13 @@
 class Solution {
     public int[] countBits(int n) {
-        int[] ans = new int[n + 1];
+
+        int[] dp = new int[n + 1];
+        dp[0] = 0;
 
         for (int i = 1; i <= n; i++) {
-            ans[i] = ans[i >> 1] + (i & 1);
+            dp[i] = dp[i & (i - 1)] + 1;
         }
 
-        return ans;
+        return dp;
     }
 }
