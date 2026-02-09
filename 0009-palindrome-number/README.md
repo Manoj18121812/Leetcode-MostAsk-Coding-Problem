@@ -8,7 +8,7 @@
 <strong>Output:</strong> true
 <strong>Explanation:</strong> 121 reads as 121 from left to right and from right to left.
 </pre>
-
+ 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
