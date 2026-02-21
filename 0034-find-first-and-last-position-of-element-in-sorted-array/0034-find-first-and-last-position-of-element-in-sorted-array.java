@@ -8,7 +8,7 @@ class Solution {
                 if(first==-1){
                     first=i;
                 }
-                last =i;
+                last=i;
             }
         }
         return new int[]{first,last};
