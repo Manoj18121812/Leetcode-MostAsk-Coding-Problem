@@ -11,6 +11,7 @@ class Solution {
                 last=i;
             }
         }
-        return new int[]{first,last};
+         int result[]={first,last};
+         return result;
     }
 }
