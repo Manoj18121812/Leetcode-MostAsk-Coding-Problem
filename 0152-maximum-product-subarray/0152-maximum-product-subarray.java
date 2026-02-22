@@ -7,7 +7,7 @@ class Solution {
             int product =1;
             for(int j=i;j<nums.length;j++){
                 product = product * nums[j];
-                max = Math.max(max,product);
+                max= Math.max(product,max);
             }
         }
         return max;
