@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0912-sort-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -238,10 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -362,4 +367,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
