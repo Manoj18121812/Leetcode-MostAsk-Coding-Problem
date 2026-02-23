@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0503-next-greater-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0704-binary-search) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0392-is-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0844-backspace-string-compare](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Trie
 |  |
 | ------- |
