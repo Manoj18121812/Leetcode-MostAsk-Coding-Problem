@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0867-transpose-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0867-transpose-matrix) |
 ## Data Stream
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0867-transpose-matrix) |
 ## Counting Sort
 |  |
 | ------- |
