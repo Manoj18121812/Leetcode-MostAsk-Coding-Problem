@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0739-daily-temperatures) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0561-array-partition) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Trie
 |  |
 | ------- |
