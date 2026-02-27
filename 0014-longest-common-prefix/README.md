@@ -16,7 +16,7 @@
 <strong>Input:</strong> strs = [&quot;dog&quot;,&quot;racecar&quot;,&quot;car&quot;]
 <strong>Output:</strong> &quot;&quot;
 <strong>Explanation:</strong> There is no common prefix among the input strings.
-</pre>
+</pre> 
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
