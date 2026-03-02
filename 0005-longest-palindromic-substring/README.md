@@ -8,7 +8,7 @@
 <strong>Output:</strong> &quot;bab&quot;
 <strong>Explanation:</strong> &quot;aba&quot; is also a valid answer.
 </pre>
-
+ 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
