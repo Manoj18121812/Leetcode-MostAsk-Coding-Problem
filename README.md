@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0070-climbing-stairs) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0125-valid-palindrome) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0832-flipping-an-image) |
