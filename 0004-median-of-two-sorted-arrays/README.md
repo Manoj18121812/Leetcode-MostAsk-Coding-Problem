@@ -4,7 +4,7 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+ 
 <pre>
 <strong>Input:</strong> nums1 = [1,3], nums2 = [2]
 <strong>Output:</strong> 2.00000
