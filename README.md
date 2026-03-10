@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0503-next-greater-element-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
 |  |
