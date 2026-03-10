@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0459-repeated-substring-pattern) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
