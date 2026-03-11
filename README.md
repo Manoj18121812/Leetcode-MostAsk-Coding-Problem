@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
