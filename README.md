@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
