@@ -10,7 +10,7 @@
 </pre> 
  
 <p><strong class="example">Example 2:</strong></p>
-
+ 
 <pre>
 <strong>Input:</strong> s = &quot;cbbd&quot;
 <strong>Output:</strong> &quot;bb&quot;
