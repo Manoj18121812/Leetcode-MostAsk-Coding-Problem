@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1108-defanging-an-ip-address) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1408-string-matching-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1408-string-matching-in-an-array) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2288-apply-discount-to-prices](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/2288-apply-discount-to-prices) |
 ## Hash Table
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0724-find-pivot-index) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
