@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1323-maximum-69-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0561-array-partition) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1323-maximum-69-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1323-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
