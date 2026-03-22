@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1408-string-matching-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2288-apply-discount-to-prices](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/2288-apply-discount-to-prices) |
 ## Hash Table
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
