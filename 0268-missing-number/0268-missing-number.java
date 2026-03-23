@@ -1,8 +1,8 @@
 class Solution {
     public int missingNumber(int[] nums) {
         Set<Integer>set = new HashSet<>();
-        
-        for(int num: nums){
+
+        for(int num:nums){
             set.add(num);
         }
 
