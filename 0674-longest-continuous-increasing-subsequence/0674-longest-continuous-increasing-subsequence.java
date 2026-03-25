@@ -2,7 +2,7 @@ class Solution {
     public int findLengthOfLCIS(int[] nums) {
         if(nums.length==0) return 0;
 
-        int maxLength =1;
+        int maxLength=1;
         int currentLength=1;
 
         for(int i=1;i<nums.length;i++){
@@ -12,7 +12,7 @@ class Solution {
                 currentLength=1;
             }
 
-            maxLength = Math.max(maxLength,currentLength);
+            maxLength =Math.max(currentLength,maxLength);
         }
         return maxLength;
     }
