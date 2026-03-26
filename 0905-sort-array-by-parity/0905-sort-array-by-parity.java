@@ -1,9 +1,9 @@
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
-       int result[]= new int[nums.length];
+       int result[]=new int[nums.length];
        int index=0;
 
-       for(int num: nums){
+       for(int num:nums){
         if(num%2==0){
             result[index++]=num;
         }
@@ -13,8 +13,8 @@ class Solution {
         if(num%2==1){
             result[index++]=num;
         }
-        
        }
+
        return result;
     }
 }
