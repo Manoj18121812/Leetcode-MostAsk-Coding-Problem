@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1051-height-checker](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1089-duplicate-zeros) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0989-add-to-array-form-of-integer](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1323-maximum-69-number) |
