@@ -6,17 +6,22 @@ class Solution {
     }
 
     private String build(String str){
-        StringBuilder sb = new StringBuilder();
+        Stack<Character>stack = new Stack<>();
 
-        for(char ch:str.toCharArray()){
-            if(ch!='#'){
-                sb.append(ch);
-            }else{
-                if(sb.length()>0){
-                    sb.deleteCharAt(sb.length()-1);
+            for(char ch:str.toCharArray()){
+                if(ch!='#'){
+                    stack.push(ch);
+                }else{
+                    if(!stack.isEmpty()){
+                        stack.pop();
+                    }
                 }
             }
-        }  
-        return sb.toString();
+
+            StringBuilder sb = new StringBuilder();
+            for(char ch: stack){
+                sb.append(ch);
+            }
+            return sb.toString();
     }
     }
