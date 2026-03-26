@@ -1,23 +1,23 @@
 class Solution {
     public String reverseOnlyLetters(String s) {
         
-        Stack<Character>stack = new Stack<>();
+       Stack<Character>stack = new Stack<>();
 
-        for(char ch:s.toCharArray()){
-            if(Character.isLetter(ch)){
-                stack.push(ch);
-            }
+       for(char ch:s.toCharArray()){
+        if(Character.isLetter(ch)){
+            stack.add(ch);
         }
+       }
 
-        StringBuilder result = new StringBuilder();
+       StringBuilder sb = new StringBuilder();
 
-        for(char ch: s.toCharArray()){
-            if(Character.isLetter(ch)){
-                result.append(stack.pop());
-            }else{
-                result.append(ch);
-            }
+       for(char ch:s.toCharArray()){
+        if(Character.isLetter(ch)){
+            sb.append(stack.pop());
+        }else{
+            sb.append(ch);
         }
-        return result.toString();
+       }
+       return sb.toString();
     }
 }
