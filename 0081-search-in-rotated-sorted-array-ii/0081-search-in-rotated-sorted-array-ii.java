@@ -4,7 +4,6 @@ class Solution {
         for(int num:nums){
             if(num==target){
                 return true;
-                
             }
         }
         return false;
