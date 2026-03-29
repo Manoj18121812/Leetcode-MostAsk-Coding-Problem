@@ -14,14 +14,13 @@ class Solution {
 
 
 
-         String word[]= s.split(" +");
+         String words[]=s.split(" +");
          StringBuilder sb = new StringBuilder();
 
-         for(int i=word.length-1;i>=0;i--){
-            sb.append(word[i]);
+         for(int i=words.length-1;i>=0;i--){
+            sb.append(words[i]);
             sb.append(" ");
          }
-
          return sb.toString().trim();
     }
 }
