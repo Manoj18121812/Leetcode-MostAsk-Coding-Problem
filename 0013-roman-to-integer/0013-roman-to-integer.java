@@ -15,15 +15,14 @@ class Solution {
         int prevValue=0;
 
         for(int i=s.length()-1;i>=0;i--){
-            int currentValue = map.get(s.charAt(i));
-
-            if(currentValue < prevValue){
-                total = total - currentValue;
+            int currentValue=map.get(s.charAt(i));
+            if(currentValue<prevValue){
+                total =total-currentValue;
             }else{
-                total = total + currentValue;
+                total = total +currentValue;
             }
-            prevValue = currentValue;
-        }
-        return total;
+            prevValue=currentValue;
+                    }
+                    return total;
     }
 }
