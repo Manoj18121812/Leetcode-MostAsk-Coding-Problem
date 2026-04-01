@@ -1,28 +1,28 @@
 class Solution {
     public int calPoints(String[] operations) {
       
-        Stack<Integer>stack = new Stack<>();
+        Stack<Integer>stack =  new Stack<>();
 
-        for(String op:operations){
-
-            if(op.equals("+")){
-                int a= stack.pop();
+        for(String ch : operations){
+            if(ch.equals("+")){
+                int a=stack.pop();
                 int b = stack.peek();
                 stack.push(a);
                 stack.push(a+b);
-            }else if(op.equals("D")){
+            }else if(ch.equals("D")){
                 stack.push(2*stack.peek());
-            }else if(op.equals("C")){
+            }else if(ch.equals("C")){
                 stack.pop();
             }else{
-                stack.push(Integer.parseInt(op));
+                stack.push(Integer.parseInt(ch));
             }
         }
 
-        int sum = 0;
-        for(int num:stack){
-            sum =sum +num;
+        int sum=0;
+        for(int a:stack){
+            sum = sum + a;
         }
+
         return sum;
     }
 }
