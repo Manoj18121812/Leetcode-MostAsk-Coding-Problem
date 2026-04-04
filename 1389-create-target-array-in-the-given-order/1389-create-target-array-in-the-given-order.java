@@ -7,13 +7,11 @@ class Solution {
         list.add(index[i],nums[i]);
      }
 
-     int result[]= new int[nums.length];
+     int result[]= new int[list.size()];
 
-     for(int i=0;i<nums.length;i++){
-        result[i]=list.get(i);
+     for(int j=0;j<nums.length;j++){
+        result[j]=list.get(j);
      }
-
-     return result;
-
+    return result;
     }
 }
