@@ -3,7 +3,7 @@ class Solution {
         int depth=0;
         int max=0;
 
-        for(char ch:s.toCharArray()){
+        for(char ch: s.toCharArray()){
             if(ch=='('){
                 max= Math.max(max,++depth);
             }else if(ch==')'){
