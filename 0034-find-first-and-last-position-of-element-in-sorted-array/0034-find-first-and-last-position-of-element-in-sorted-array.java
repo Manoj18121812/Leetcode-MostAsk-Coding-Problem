@@ -11,7 +11,7 @@ class Solution {
                 last=i;
             }
         }
-        int result[]={first,last};
-        return result;
+        int arr[]={first,last};
+        return arr;
     }
 }
