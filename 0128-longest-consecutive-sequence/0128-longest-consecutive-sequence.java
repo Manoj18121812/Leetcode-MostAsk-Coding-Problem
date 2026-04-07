@@ -7,18 +7,17 @@ class Solution {
         set.add(num);
        }
 
-        int longest=0;
+       int longest=0;
        for(int num:set){
         if(!set.contains(num-1)){
-            int current =num;
+            int current = num;
             int length=1;
 
             while(set.contains(current+1)){
                 length++;
                 current++;
-                
             }
-            longest =Math.max(longest,length);
+            longest= Math.max(longest,length);
         }
        }
        return longest;
