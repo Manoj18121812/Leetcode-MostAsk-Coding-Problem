@@ -1,19 +1,19 @@
 class Solution {
     public String longestPalindrome(String s) {
 
-      String ans="";
+      String sub="";
 
       for(int i=0;i<s.length();i++){
         for(int j=i;j<s.length();j++){
-            String sub=s.substring(i,j+1);
-            if(isPalindrome(sub)){
-                if(sub.length()>ans.length()){
-                    ans=sub;
+            String ans=s.substring(i,j+1);
+            if(isPalindrome(ans)){
+                if(ans.length()>sub.length()){
+                    sub=ans;
                 }
             }
         }
       }
-      return ans;
+      return sub;
     }
 
     private boolean isPalindrome(String str){
