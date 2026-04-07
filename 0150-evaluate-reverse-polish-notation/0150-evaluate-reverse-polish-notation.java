@@ -6,23 +6,22 @@ class Solution {
         for(String token:tokens){
 
             if(token.equals("+")){
-                int b=stack.pop();
-                int a=stack.pop();
+                int b = stack.pop();
+                int a = stack.pop();
                 stack.push(a+b);
             }else if(token.equals("-")){
                 int b=stack.pop();
-                int a =stack.pop();
+                int a = stack.pop();
                 stack.push(a-b);
             }else if(token.equals("*")){
                 int b=stack.pop();
                 int a=stack.pop();
                 stack.push(a*b);
             }else if(token.equals("/")){
-                int b=stack.pop();
-                int a=stack.pop();
+                int b = stack.pop();
+                int a= stack.pop();
                 stack.push(a/b);
-            }
-            else{
+            }else{
                 stack.push(Integer.parseInt(token));
             }
         }
