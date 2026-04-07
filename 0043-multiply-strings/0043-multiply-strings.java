@@ -1,11 +1,10 @@
 class Solution {
     public String multiply(String num1, String num2) {
         /*
-        int num3 = Integer.parseInt(num1);
-        int num4 = Integer.parseInt(num2);
-        double result =num3*num4;
-
-        return  String.valueOf(result);*/
+        int num1 = Integer.parseInt(num1);
+        int num2 = Integer.parseInt(num2);
+        double num3= num1*num2;
+        return String.valueOf(num3);*/
 
         int m = num1.length();
         int n = num2.length();
