@@ -14,7 +14,7 @@ class Solution {
 
     Arrays.sort(merged);
 
-int n = merged.length;
+    int n = merged.length;
     if(n%2==1){
         return merged[n/2];
     }else{
