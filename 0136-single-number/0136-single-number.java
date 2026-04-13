@@ -3,8 +3,8 @@ class Solution {
 
      int result=0;
 
-     for(int num : nums){
-        result = result ^num;
+     for(int num:nums){
+        result=num^result;
      }
      return result;
     }
