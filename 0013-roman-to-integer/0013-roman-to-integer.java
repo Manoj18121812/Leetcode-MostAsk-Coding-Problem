@@ -11,18 +11,19 @@ class Solution {
         map.put('D',500);
         map.put('M',1000);
 
-        int total =0;
+        int total=0;
         int prevValue=0;
 
-        for(int i=s.length()-1;i>=0;i--){
-            int currentValue=map.get(s.charAt(i));
-            if(currentValue<prevValue){
-                total =total-currentValue;
-            }else{
-                total = total +currentValue;
-            }
-            prevValue=currentValue;
-                    }
-                    return total;
+        for(int  i=s.length()-1;i>=0;i--){
+        int currentValue=map.get(s.charAt(i));
+
+        if(currentValue<prevValue){
+            total=total-currentValue;
+        }else{
+            total=total+currentValue;
+        }
+        prevValue=currentValue;
+        }
+        return total;
     }
 }
