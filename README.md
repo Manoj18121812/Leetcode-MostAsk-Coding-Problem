@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0326-power-of-three) |
 ## Interactive
 |  |
 | ------- |
