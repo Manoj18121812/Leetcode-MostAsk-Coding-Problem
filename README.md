@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0832-flipping-an-image) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0342-power-of-four) |
 ## Interactive
 |  |
 | ------- |
