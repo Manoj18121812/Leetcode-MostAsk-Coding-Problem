@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0415-add-strings) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0735-asteroid-collision) |
@@ -500,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
