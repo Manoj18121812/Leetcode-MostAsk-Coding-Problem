@@ -1,9 +1,9 @@
 class Solution {
     public int firstUniqChar(String s) {
         
-       HashMap<Character,Integer> map = new HashMap<>();
+       HashMap<Character,Integer>map = new HashMap<>();
 
-       for( char ch : s.toCharArray()){
+       for(char ch : s.toCharArray()){
         map.put(ch,map.getOrDefault(ch,0)+1);
        }
 
