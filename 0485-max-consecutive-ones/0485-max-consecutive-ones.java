@@ -3,7 +3,7 @@ class Solution {
         int max=0;
         int count=0;
 
-        for(int num :nums){
+        for(int num : nums){
             if(num==1){
                 count++;
                 max= Math.max(max,count);
