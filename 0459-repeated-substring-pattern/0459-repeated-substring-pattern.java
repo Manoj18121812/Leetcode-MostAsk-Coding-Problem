@@ -1,6 +1,6 @@
 class Solution {
     public boolean repeatedSubstringPattern(String s) {
-        int n = s.length();
+       /* int n = s.length();
 
         for(int i=1;i<=n/2;i++){
             if(n%i==0){
@@ -15,6 +15,9 @@ class Solution {
                 }
             }
         }
-        return false;
+        return false;*/
+
+        String doubled = s+s;
+        return doubled.substring(1,doubled.length()-1).contains(s);
     }
 }
