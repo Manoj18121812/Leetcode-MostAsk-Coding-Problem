@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0832-flipping-an-image) |
