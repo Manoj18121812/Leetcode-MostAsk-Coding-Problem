@@ -3,11 +3,11 @@ class Solution {
 
         HashMap<Character,Integer>map = new HashMap<>();
 
-        for(char ch : magazine.toCharArray()){
+        for(char ch:magazine.toCharArray()){
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
 
-        for(char ch : ransomNote.toCharArray()){
+        for(char ch:ransomNote.toCharArray()){
             if(!map.containsKey(ch) || map.get(ch)==0){
                 return false;
             }
