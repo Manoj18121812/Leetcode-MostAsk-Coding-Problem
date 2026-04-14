@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
