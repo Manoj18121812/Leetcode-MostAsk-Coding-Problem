@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0704-binary-search) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0819-most-common-word) |
