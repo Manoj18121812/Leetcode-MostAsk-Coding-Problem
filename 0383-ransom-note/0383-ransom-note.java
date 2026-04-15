@@ -3,7 +3,7 @@ class Solution {
 
         HashMap<Character,Integer>map = new HashMap<>();
 
-        for(char ch:magazine.toCharArray()){
+        for(char ch : magazine.toCharArray()){
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
 
