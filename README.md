@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1313-decompress-run-length-encoded-list) |
+| [1331-rank-transform-of-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1389-create-target-array-in-the-given-order) |
 | [1408-string-matching-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1408-string-matching-in-an-array) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0819-most-common-word) |
 | [1207-unique-number-of-occurrences](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1512-number-of-good-pairs) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Trie
 |  |
