@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0769-max-chunks-to-make-sorted) |
+| [0775-global-and-local-inversions](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0775-global-and-local-inversions) |
 | [0804-unique-morse-code-words](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0832-flipping-an-image) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0775-global-and-local-inversions](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0775-global-and-local-inversions) |
 | [0989-add-to-array-form-of-integer](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
