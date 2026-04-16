@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0989-add-to-array-form-of-integer) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0775-global-and-local-inversions](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0775-global-and-local-inversions) |
+| [0908-smallest-range-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
