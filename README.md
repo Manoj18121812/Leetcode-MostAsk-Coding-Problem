@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0575-distribute-candies) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
