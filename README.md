@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0704-binary-search) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0819-most-common-word) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0912-sort-an-array) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0832-flipping-an-image) |
 ## Monotonic Stack
 |  |
