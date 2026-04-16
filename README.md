@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0704-binary-search) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0643-maximum-average-subarray-i) |
 ## Union Find
 |  |
 | ------- |
