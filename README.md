@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1672-richest-customer-wealth) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Trie
 |  |
 | ------- |
