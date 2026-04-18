@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1512-number-of-good-pairs) |
