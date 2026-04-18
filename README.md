@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0434-number-of-segments-in-a-string) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0832-flipping-an-image) |
