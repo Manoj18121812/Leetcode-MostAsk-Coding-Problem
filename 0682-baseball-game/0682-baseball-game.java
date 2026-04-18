@@ -1,11 +1,11 @@
 class Solution {
     public int calPoints(String[] operations) {
       
-        Stack<Integer>stack =  new Stack<>();
+        Stack<Integer>stack = new Stack<>();
 
-        for(String ch : operations){
+        for(String ch :operations){
             if(ch.equals("+")){
-                int a=stack.pop();
+                int a= stack.pop();
                 int b = stack.peek();
                 stack.push(a);
                 stack.push(a+b);
@@ -19,10 +19,9 @@ class Solution {
         }
 
         int sum=0;
-        for(int a:stack){
-            sum = sum + a;
+        for(int num:stack){
+            sum = sum + num;
         }
-
         return sum;
     }
 }
