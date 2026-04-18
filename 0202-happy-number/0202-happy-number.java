@@ -9,19 +9,19 @@ class Solution {
             if(set.contains(n)){
                 return false;
             }
-
             set.add(n);
-            n= nextNumber(n);
+            n = NextNumber(n);
         }
         return true;
     }
-    private int nextNumber(int num){
-        
-        int sum=0;
+
+    private int NextNumber(int num){
+
+        int sum =0;
         while(num>0){
             int digit=num%10;
-            sum = sum + digit *digit;
-            num= num/10;
+            sum = sum + digit*digit;
+            num=num/10;
         }
         return sum;
     }
