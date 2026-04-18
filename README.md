@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
