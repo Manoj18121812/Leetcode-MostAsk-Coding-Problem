@@ -7,7 +7,7 @@ class Solution {
 
         for(int i=3;i<=n;i++){
             int third=first+second;
-            first = second;
+            first=second;
             second=third;
         }
         return second;
