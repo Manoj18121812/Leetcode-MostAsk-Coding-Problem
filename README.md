@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0922-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
