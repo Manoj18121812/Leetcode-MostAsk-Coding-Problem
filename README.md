@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1025-divisor-game) |
 ## Math
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0775-global-and-local-inversions) |
 | [0908-smallest-range-i](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1323-maximum-69-number) |
@@ -606,10 +608,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Manoj18121812/Leetcode-MostAsk-Coding-Problem/tree/master/1025-divisor-game) |
 ## Rolling Hash
 |  |
 | ------- |
