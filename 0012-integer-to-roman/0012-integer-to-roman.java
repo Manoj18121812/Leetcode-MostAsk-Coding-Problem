@@ -6,11 +6,11 @@ class Solution {
 
         StringBuilder sb = new StringBuilder();
 
-        for(int i=0;i<value.length && num>0;i++){
+        for(int i=0;i<=value.length && num>0;i++){
 
             while(num>=value[i]){
                 sb.append(symbols[i]);
-                num=num-value[i];
+                num = num-value[i];
             }
         }
         return sb.toString();
