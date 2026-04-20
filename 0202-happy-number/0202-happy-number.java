@@ -2,7 +2,6 @@ import java.util.*;
 
 class Solution {
     public boolean isHappy(int n) {
-        
         Set<Integer>set = new HashSet<>();
 
         while(n!=1){
@@ -10,19 +9,18 @@ class Solution {
                 return false;
             }
             set.add(n);
-            n = NextNumber(n);
+         n =NextNumber(n);
         }
         return true;
     }
-
     private int NextNumber(int num){
-
-        int sum =0;
+        int result=0;
         while(num>0){
             int digit=num%10;
-            sum = sum + digit*digit;
+            result=result+ digit*digit;
             num=num/10;
         }
-        return sum;
+        return result;
     }
+    
 }
