@@ -5,18 +5,22 @@ class Solution {
 
     for(int i=0;i<s.length();i++){
 
-        char ch=s.charAt(i);
-        char ch1=t.charAt(i);
+        char s1=s.charAt(i);
+        char s2=t.charAt(i);
 
-        if(map.containsKey(ch)){
-            if(map.get(ch)!=ch1){
+        if(map.containsKey(s1)){
+            if(map.get(s1)!=s2){
                 return false;
             }
-        }else if(map.containsValue(ch1)){
-            return false;
+            }else {
+                if(map.containsValue(s2)){
+                return false;
+            }
+            map.put(s1,s2);
+            
         }
-        map.put(ch,ch1);
     }
+    
     return true;
     }
 }
