@@ -8,7 +8,8 @@ class Solution {
         }
 
         List<Integer>list = new ArrayList<>(map.keySet());
-        list.sort((a,b) -> map.get(b)-map.get(a));
+
+        list.sort((a,b)->map.get(b)-map.get(a));
 
         int res[]= new int[k];
         for(int i=0;i<k;i++){
