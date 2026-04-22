@@ -20,7 +20,7 @@
 </pre>
 
 <p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+<p><strong>Constraints:</strong></p> 
 
 <ul>
 	<li><code>nums1.length == m</code></li>
