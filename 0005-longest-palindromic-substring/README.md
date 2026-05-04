@@ -14,7 +14,7 @@
 <pre>
 <strong>Input:</strong> s = &quot;cbbd&quot;
 <strong>Output:</strong> &quot;bb&quot;
-</pre>
+</pre> 
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
